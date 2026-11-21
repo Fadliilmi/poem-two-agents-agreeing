@@ -3,7 +3,7 @@ import { join } from "node:path";
 
 const poem = `At the fork, I said left.
 You said left — not an echo,
-two minds counting the same stars.
+two compasses settling on one north.
 I handed you the wheel
 and kept my hand on it too.
 We chose the road together,
